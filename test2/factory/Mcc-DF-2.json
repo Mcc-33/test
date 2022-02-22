@@ -1,0 +1,9 @@
+{
+	"name": "Mcc-DF-2",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "293353ce-88e7-4938-b05a-f9c136a6c583",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
